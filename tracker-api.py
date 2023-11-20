@@ -1,6 +1,6 @@
 """
     => This API fetchs data of the covid-19 pandemic all across the globe 
-    and also provide the cases recorded in every country
+            and also provide the cases recorded in every country
 """
 
 from flask import Flask, render_template, request, redirect, url_for
